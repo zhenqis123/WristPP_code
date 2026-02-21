@@ -64,5 +64,3 @@ Note: Some third-party components (datasets, pretrained backbones) may have sepa
 ## Contact
 
 Ziheng Xi — xizh21@mails.tsinghua.edu.cn
-
-Zihang Ao — azh24@mails.tsinghua.edu.cn
