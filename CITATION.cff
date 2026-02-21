@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "WristP²: A Wrist-Worn System for Hand Pose and Pressure Estimation"
+message: "If you use this software, please cite our paper."
+type: software
+authors:
+  - family-names: Xi
+    given-names: Ziheng
+  - family-names: Ao
+    given-names: Zihang
+  - family-names: Wang
+    given-names: Yitao
+  - family-names: Gao
+    given-names: Mingze
+  - family-names: Zhang
+    given-names: Wanmei
+  - family-names: Feng
+    given-names: Jianjiang
+  - family-names: Zhou
+    given-names: Jie
+repository-code: "https://github.com/wristp2/WristP2"
+url: "https://wristp2.github.io"
+license: "MIT"
+preferred-citation:
+  type: conference-paper
+  title: "WristP²: A Wrist-Worn System for Hand Pose and Pressure Estimation"
+  authors:
+    - family-names: Xi
+      given-names: Ziheng
+    - family-names: Ao
+      given-names: Zihang
+    - family-names: Wang
+      given-names: Yitao
+    - family-names: Gao
+      given-names: Mingze
+    - family-names: Zhang
+      given-names: Wanmei
+    - family-names: Feng
+      given-names: Jianjiang
+    - family-names: Zhou
+      given-names: Jie
+  year: 2026
+  doi: "10.1145/3772318.3790626"
